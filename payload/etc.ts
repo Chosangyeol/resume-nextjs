@@ -5,15 +5,10 @@ const etc: IEtc.Payload = {
 
   list: [
     {
-      title: 'Featured on SuperTuxKart',
-      subTitle: "Steve & Oliver Baker's",
-      startedAt: '2016-07',
-    },
-    {
-      title: "Biting Linus Torvalds' Foot",
-      subTitle: 'Australia National Zoo & Aquarium',
-      startedAt: '1993-07',
-      endedAt: '1993-08',
+      title: '제4회 배재대학교 아이디어 해커톤 첼린지리그 우수상 수상',
+      subTitle: "버스 및 지하철 노선도를 통한 대전 관광 어플",
+      startedAt: '2024-05-11',
+      endedAt: '2024-05-12',
     },
   ],
 };
