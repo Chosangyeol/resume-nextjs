@@ -11,13 +11,13 @@ const profile: IProfile.Payload = {
   // image: 'https://resume.yowu.dev/static/image/profile_2019.png',
   image,
   name: {
-    title: 'Tux Linux Penguin',
-    small: '(Tux)',
+    title: '조상열',
+    small: '(Cho Sang Yeol)',
   },
   contact: [
     {
-      title: 'tux@linux.org',
-      link: 'mailto:tux@linux.org',
+      title: 'tankg159@gmail.com',
+      link: 'mailto:tankg159@gmail.com',
       icon: faEnvelope,
     },
     {
@@ -26,11 +26,11 @@ const profile: IProfile.Payload = {
       badge: true,
     },
     {
-      link: 'https://github.com/uyu423/resume-nextjs',
+      link: 'https://github.com/Chosangyeol',
       icon: faGithub,
     },
     {
-      link: 'https://www.facebook.com/groups/ubuntu.ko',
+      link: 'None',
       icon: faFacebook,
     },
   ],
