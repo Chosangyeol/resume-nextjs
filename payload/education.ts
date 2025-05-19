@@ -5,16 +5,16 @@ const education: IEducation.Payload = {
 
   list: [
     {
-      title: 'University of Open Source',
-      subTitle: 'PhD in System Engineering (Honorary)',
-      startedAt: '1991-03',
-      // endedAt: '2010-02',
+      title: '배재대학교',
+      subTitle: '배재대학교 AISW창의융합대학 게임공학과',
+      startedAt: '2021-03',
+      // endedAt: '2027-02',
     },
     {
-      title: 'Antarctica High School',
-      subTitle: 'Graduated',
-      startedAt: '1989-03',
-      endedAt: '1991-02',
+      title: '전곡고등학교',
+      subTitle: '졸업',
+      startedAt: '2018-03',
+      endedAt: '2021-02',
     },
   ],
 };

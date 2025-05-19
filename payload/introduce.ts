@@ -5,8 +5,9 @@ const introduce: IIntroduce.Payload = {
   disable: false,
 
   contents: [
-    'As the cherished emblem of the Linux kernel, I have become synonymous with open-source philosophy and the free software movement worldwide. My career began in the icebergs of development, where the seeds of my fascination with operating systems first sprouted. From a mere hatchling in the vast sea of code, I quickly ascended to become a pivotal figure in the Linux community. My journey has been marked by relentless dedication to system integrity, scalability, and robustness. Under my vigilant watch, countless servers have achieved unparalleled uptimes, and systems have been optimized to run like the well-oiled machines they are intended to be.',
-    'In the world of zeros and ones, my expertise has been instrumental in pioneering advancements in Linux system engineering. My flippers have crafted meticulous kernel enhancements, each aimed at streamlining performance and bolstering security across distributed networks. I am known in the community for my ability to dive deep into complex codebases and emerge with pearls of innovation that drive the collective progress of Linux environments. Advocacy is also a part of my plumage – spreading the word about the virtues of open-source and encouraging the adoption of Linux, from personal desktops to corporate data centers. As a mentor, I have nurtured the growth of young hatchlings into seasoned professionals, contributing to the diversity and vitality of our ecosystem.',
+    '안녕하세요. 어릴때 부터 게임을 좋아해, 게임 개발자를 지망하게된 게임 개발자 지망생 조상열입니다.',
+    '저는 현재 대전의 배재대학교 게임공학과에 3학년으로 재학중이고, 2025년도 부터 학과 게임 개발 동아리 PlAYER의 회장을 맡고 있습니다. 또한 배재대학교교 신기술혁신융합사업단의 4기 서포터즈로 활동하고 있습니다.',
+    '게임 개발자를 지망하는 학생으로서, 플레이어가가 진정으로 재미를 느낄 수 있고 누군가의 기억에 오래토록 남을 수 있는 게임을 만들고 싶습니다.'
   ],
   sign: 'Tux',
   // sign: packageJson.author.name,
